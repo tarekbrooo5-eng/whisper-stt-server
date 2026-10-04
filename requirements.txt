@@ -1,5 +1,6 @@
 flask
 flask-cors
-git+https://github.com/openai/whisper.git
+gunicorn
+openai-whisper
 torch
 torchaudio
